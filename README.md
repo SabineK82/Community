@@ -1,4 +1,4 @@
 # Community
 
 
-[a link](https://github.com/SabineK82/Community/discussions)
+[Discussion](https://github.com/SabineK82/Community/discussions)
